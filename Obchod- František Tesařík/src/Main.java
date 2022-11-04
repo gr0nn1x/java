@@ -181,7 +181,7 @@ public class Main {
         System.out.println("|-----------------------------------------------------|");
         System.out.println("|               DĚKUJEME ZA VÁŠ NÁKUP                 |");
         System.out.println("|               VAŠE FINÁLNÍ CENA ČINÍ                |");
-        System.out.println("                       "+ balance +"                   ");
+        System.out.println("                       "+ balance +"Kč                 ");
         System.out.println("|_____________________________________________________|");
     }
 }
